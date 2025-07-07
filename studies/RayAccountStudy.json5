@@ -17,7 +17,7 @@
           },
           {
             name: 'ray-profile-base-url',
-            value: 'https://raybrowser.com/',
+            value: 'https://account.raybrowser.com/',
           },
           {
             name: 'ray-api-version',
